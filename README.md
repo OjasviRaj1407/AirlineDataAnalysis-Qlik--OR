@@ -19,4 +19,6 @@ Utilizing Qlik's analytical powers, the project's goal is to find patterns, tren
 
 ### DATASET LINK: https://drive.google.com/file/d/143xKA5gwHCu3W0tA0GKqWws6p34I6Gzg/view?usp=drive_link
 
+### PRE-PROCESSED DATASET LINK: https://osga76f9lnpwpqd.sg.qlikcloud.com/dataset/665f6a6bfadcab72693c3dbf
+
 PROJECT DEMONSTRATION LINK: 

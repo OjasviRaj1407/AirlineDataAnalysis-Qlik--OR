@@ -26,6 +26,8 @@ Utilizing Qlik's analytical powers, the project's goal is to find patterns, tren
 ### STORYTELLING PDF FILE: https://drive.google.com/file/d/1UYuSrjqY7I8kevaV4scAEzjkbcdj-etU/view?usp=sharing
 
 
+
+
 ## PROJECT DOCUMENTATION: https://drive.google.com/file/d/1xG4a-IBcLMGoAixElgghyOzgS10lYmVb/view?usp=sharing
 
 PROJECT DEMONSTRATION LINK: 

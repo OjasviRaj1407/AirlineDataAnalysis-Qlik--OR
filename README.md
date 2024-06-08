@@ -28,4 +28,4 @@ Utilizing Qlik's analytical powers, the project's goal is to find patterns, tren
 
 # PROJECT DOCUMENTATION: https://drive.google.com/file/d/1xG4a-IBcLMGoAixElgghyOzgS10lYmVb/view?usp=sharing
 
-PROJECT DEMONSTRATION LINK: 
+## PROJECT DEMONSTRATION LINK: https://drive.google.com/file/d/1s9ki8v39o_QrSgL1m2_90NxnLSPxoisF/view?usp=sharing
